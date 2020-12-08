@@ -1,5 +1,5 @@
 # web-nav
-预览地址
+预览地址：https://jiejie-coding.github.io/web-nav/dist/index.html
 
 # 开发
 
