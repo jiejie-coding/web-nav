@@ -3,10 +3,10 @@
 
 # 开发
 
-# yarn global add parcel-bundler
+yarn global add parcel-bundler
 
-# parcel src/index.html
+parcel src/index.html
 
 # 打包
 
-# parcel build src/index.html --public-url ./
+parcel build src/index.html --public-url ./
